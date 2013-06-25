@@ -1,0 +1,278 @@
+/* Autum Color Theme */
+
+body {
+	background: white;
+	color: #222;
+	}
+
+#header {
+	background: #3b5998;
+	}
+	
+#footer {
+  color: white;
+	background: #3b5998;
+	}
+
+#footer a { 
+  color: #aebbec;
+  border-bottom: 1px solid #aebbec;
+  }
+
+#footer a:hover { 
+  color: white;
+  border-bottom: 1px solid white;
+  }
+
+#headerimg .description {
+	color: white;
+	}
+
+h2.pagetitle {
+	color: black;
+	}
+
+#sidebar ul li h2 {
+	color: black;
+  font-family: Arial,Verdana,Tahoma;
+	border-bottom: 3px solid #3b5998;
+	}
+
+h1, h1 a, h1 a:hover, h1 a:visited {
+	color: black;
+	}
+
+#header h1, #header h1 a, #header h1 a:hover, #header h1 a:visited {
+	color: white;
+	}	
+	
+h2, h2 a, h2 a:visited, h3, h3 a, h3 a:visited {
+	color: #3b5998;
+	}
+
+.commentlist li {
+	background: white;
+	}
+
+.commentlist li .avatar { 
+	border: 1px solid grey;
+	background: white;
+	}
+
+ol.commentlist li.even {
+  background: white;
+  color: black;
+  }
+
+.commentlist li.alt {	
+	background: black;	
+}
+
+small, #sidebar ul ul li, #sidebar ul ol li, .nocomments, .postmetadata, strike {
+	color: black;
+	}
+
+code {
+	border: 1px solid #3b5998;
+  color: black;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+	}
+
+a {
+	color: #6980b0;
+	border-bottom: 1px solid #6980b0;
+	}
+
+a:hover {
+  color: red;
+	border-bottom: 1px solid red;
+	}
+
+#sidebar #wp-calendar a {
+	background: white;
+	}
+#sidebar #wp-calendar a:hover {
+	color: red;
+	}	
+
+#sidebar #wp-calendar th {
+	border-bottom:1px solid #3b5998;
+	}
+	
+#sidebar #wp-calendar {
+  color: black;
+  }
+
+.post hr {
+	border-top: 1px dotted #3b5998;
+	}		
+	
+.narrowcolumn .postmetadata2 {
+	border-top: 1px solid #3b5998;
+	border-bottom: 1px solid white;
+}	
+
+.entry img {
+	border: 1px solid #eee;
+	}	
+	
+.entry {
+  color: black;
+	border-top: 1px dashed #3b5998;
+	}
+	
+#sidebar a {
+  border: 1px solid white;
+	border-bottom:1px solid #3b5998;
+	}	
+#sidebar a:hover {
+	border-bottom: 1px solid red;
+  border: 1px solid red;
+  }
+
+#sidebar .cat-item a:hover, #sidebar .archives a:hover,
+#sidebar #archives ul li a:hover,
+#sidebar .linkcat a:hover,
+#sidebar .blogroll a:hover {
+	background-color: #eee;
+} 
+
+#sidebar div.flickr_badge_image a {
+	background: #fff;
+	border: 1px solid #eee;
+}
+#sidebar div.flickr_badge_image a:hover {
+	border: 1px solid #ddd;
+	background: #fdfdfd;
+}
+
+
+#header #searchform #s {
+	background: white;
+	color: #3b5998;
+	border: 1px solid #6980b0;
+	}
+
+#header #searchsubmit {
+	background: #1d42b8;
+	border: 2px solid #6980b0;
+	color: white;
+	}
+
+#content #searchform #s {
+	background: white;
+	color: #3b5998;
+	border: 1px solid #6980b0;
+	}
+
+#content #searchsubmit {
+	background: #1d42b8;
+	border: 2px solid #6980b0;
+	color: white;
+	}
+	
+#commentform input, #commentform textarea, fieldset {
+	border: 1px solid #3b5998;
+	}
+
+#commentform textarea { 
+  background: white;
+  color: black;
+  }
+
+#commentform #submit {
+	background: #1d42b8;
+	border: 2px solid #6980b0;
+	color: white;
+	}
+	
+legend {
+	background: #ccc;
+}
+
+.commentlist li {
+	border: 1px solid #3b5998;	
+	}
+	
+#sidebar #wp-calendar td.pad:hover { /* Doesn't work in IE */
+	background-color: #fff; }
+
+acronym, abbr {
+	border-bottom: 1px dashed #6980b0;
+	}
+	
+blockquote {
+	border-left: 4px solid #3b5998;
+	background: #eee;
+	color: #6980b0;
+	}		
+
+.wp-caption {
+	border: 1px solid #ddd;
+	background-color: #f3f3f3;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+	}
+
+.entry a.more-link, .navigation a {
+	background:#ddd;
+	border-bottom: 1px solid #ccc;
+	color: #666;
+	}
+.entry a.more-link:hover, .navigation a:hover {
+	background: #E8C8C8;
+	border-bottom: 1px solid #c47373;
+	color:#222;
+	}
+	
+#sidebar li#rssfeeds a:hover, #sidebar .textwidget a:hover, #sidebar #tag_cloud a:hover, #sidebar p a:hover{
+	background: #e8c8c8;
+	}
+	
+#pagemenu {	
+	background: #3b5998;
+	border-top: 1px solid #3b5998;
+  border-bottom: 1px solid white;
+}
+
+#pagemenu ul li.page_item a, #pagemenu ul li.cat-item a {
+	color: #eee;
+	background: #3b5998;
+  margin-bottom: -1px;
+  border: 1px solid white;
+}	
+
+#pagemenu ul li.page_item a:hover, #pagemenu ul li.cat-item a:hover {
+  background: #6980b0;
+  color: white;
+}
+
+#pagemenu ul li.page_item, #pagemenu ul li.cat-item { background: #ddd;}
+
+#pagemenu ul li.current_page_item, #pagemenu ul li.current_page_item a, #pagemenu ul li.current_page_item a:hover, #pagemenu ul li.current-cat, #pagemenu ul li.current-cat a, #pagemenu ul li.current-cat a:hover { 
+	color: white;
+  background: #6980b0;
+  border: 1px solid white;
+  border-bottom: 1px sold white;
+	}
+	
+#pagemenu ul li.current_page_item li a {
+	color: #888;
+}
+
+#pagemenu #page-list li:hover {
+	}
+	
+#pagemenu #page-list li ul {
+	border: 1px solid #ddd;	
+}	
+
+#pagemenu #page-list li ul li {
+    background: #eee;
+	border-top: 1px solid #ddd;
+}
+
+.navigation {
+	border-top: 1px dashed #3b5998;
+	}

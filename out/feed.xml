@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  >
+  <channel>
+    <title>Welcome to plog!</title>
+    <atom:link href="file:///home/guillaume/Projects/plog/out/feed.rss" rel="self" type="application/rss+xml"/>
+    <link>file:///home/guillaume/Projects/plog/out/index.html</link>
+    <language>en</language>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+	  <sy:updateFrequency>1</sy:updateFrequency><item>
+<title>Second post</title>
+<link>file:///home/guillaume/Projects/plog/out/post2.html</link>
+<description>This is my second post
+
+
+</description>
+</item>
+<item>
+<title>First post</title>
+<link>file:///home/guillaume/Projects/plog/out/post1.html</link>
+<description><p>This is my first post.</p>
+<img src="images/cherry.png"/>
+<p>I hope you like cherries...</p>
+
+
+</description>
+</item>
+</channel>
+</rss>
